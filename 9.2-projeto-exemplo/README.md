@@ -1,6 +1,6 @@
 # Projeto de finalização de minicurso (continuação)
 
-- 70 minutos
+- 80 minutos
 
 - hoje devemos *continuar* a fazer
   - o repositório do projeto (tem que inventar um nome)
